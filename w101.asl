@@ -11,7 +11,7 @@ isLoading
     if (settings["removeLoads"] && current.loading == 1){
         return true;
     }
-	else{
-		return false;
-	}
+    else{
+        return false;
+    }
 }
